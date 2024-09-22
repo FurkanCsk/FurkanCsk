@@ -6,7 +6,7 @@ Feel free to check out my work and reach out to me anytime!
 
 ### Connects with me :
 
-[<img width="50px" src="https://e7.pngegg.com/pngimages/796/374/png-clipart-linkedin-linkedin.png">](https://www.linkedin.com/in/ffurkancoskun/)
+[<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png">](https://www.linkedin.com/in/ffurkancoskun/)
 
 ### Technologies :
 
