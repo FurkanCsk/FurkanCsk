@@ -4,5 +4,6 @@ I'm currently improving my skills in **C#**, **ASP.NET Core**, and **API develop
 
 Feel free to check out my work and reach out to me anytime!
 
-Connects with me :
+### Connects with me :
+
 [<img width="40px" src="https://www.vikingcamps.com/wp-content/uploads/2024/01/linkedin-logo-linkedin-icon-transparent-free-png.webp">](https://www.linkedin.com/in/ffurkancoskun/)
