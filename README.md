@@ -10,4 +10,4 @@ Feel free to check out my work and reach out to me anytime!
 
 ### Technologies :
 
-[<img width="60px" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png">]
+<img width="60px" src="https://cdn-icons-png.flaticon.com/128/6132/6132221.png">
